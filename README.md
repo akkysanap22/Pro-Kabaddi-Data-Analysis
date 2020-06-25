@@ -1,5 +1,5 @@
 # Pro-Kabaddi-Data-Analysis
-<a href="https://ichef.bbci.co.uk"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.livemint.com%2FLeisure%2F3mEWXKlZ9MpPOtWG9xQItN%2FPro-Kabaddi-faces-an-ageold-problem.html&psig=AOvVaw1FvYTj7slE_GtLUiQbDyf5&ust=1593174567905000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLCWt4r8nOoCFQAAAAAdAAAAABAJ" 
+<a href="https://ichef.bbci.co.uk"><img src="https://images.livemint.com/rf/Image-621x414/LiveMint/Period2/2017/10/26/Photos/Processed/prokabaddi-kroF--621x414@LiveMint.jpg"
 alt="FVCproductions"></a>
 ---
 ## Analysis of Players in PKL 2019.
