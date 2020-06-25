@@ -33,4 +33,4 @@
 ### And much more!!
 ---
 ## NB_Viewer
-### For analysis and insights click <a href="https://github.com/anurag-ux/2019-general-election/blob/master/Analysis.ipynb">here</a>
+### For analysis and insights click <a href="https://github.com/akkysanap22/Pro-Kabaddi-Data-Analysis/blob/master/PKL-Data%20Analysis.ipynb">here</a>
